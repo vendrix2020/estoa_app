@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c01f8091-377e-4296-9f55-8ee055a18fa8" name="Default Changelist" comment="" />
+    <list default="true" id="c01f8091-377e-4296-9f55-8ee055a18fa8" name="Default Changelist" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,10 +83,10 @@
       <screen x="1280" y="0" width="1440" height="900" />
     </state>
     <state x="1380" y="125" width="1240" height="628" key="AVDManager/1280.0.1440.900/0.27.1280.826@1280.0.1440.900" timestamp="1607079793395" />
-    <state x="1539" y="27" width="912" height="826" key="CommitChangelistDialog2" timestamp="1607079177678">
+    <state x="1539" y="27" width="912" height="826" key="CommitChangelistDialog2" timestamp="1607084798156">
       <screen x="1280" y="0" width="1440" height="900" />
     </state>
-    <state x="1539" y="27" width="912" height="826" key="CommitChangelistDialog2/1280.0.1440.900/0.27.1280.826@1280.0.1440.900" timestamp="1607079177678" />
+    <state x="1539" y="27" width="912" height="826" key="CommitChangelistDialog2/1280.0.1440.900/0.27.1280.826@1280.0.1440.900" timestamp="1607084798156" />
     <state x="1771" y="182" width="447" height="513" key="FileChooserDialogImpl" timestamp="1607082284343">
       <screen x="1280" y="0" width="1440" height="900" />
     </state>
@@ -113,14 +115,26 @@
     <state width="607" height="253" key="GridCell.Tab.0.right/0.27.1440.828@0.27.1440.828" timestamp="1606903613322" />
     <state width="1394" height="203" key="GridCell.Tab.0.right/1280.0.1440.900/0.27.1280.826@1280.0.1440.900" timestamp="1607082194692" />
     <state width="1394" height="258" key="GridCell.Tab.0.right/1280.0.1440.900/0.47.1280.1024@1280.0.1440.900" timestamp="1606928698154" />
-    <state x="1489" y="52" key="SettingsEditor" timestamp="1607084380435">
+    <state x="1489" y="52" key="SettingsEditor" timestamp="1607086082316">
       <screen x="1280" y="0" width="1440" height="900" />
     </state>
     <state x="209" y="75" key="SettingsEditor/0.27.1440.828@0.27.1440.828" timestamp="1606903390557" />
-    <state x="1489" y="52" key="SettingsEditor/1280.0.1440.900/0.27.1280.826@1280.0.1440.900" timestamp="1607084380435" />
+    <state x="1489" y="52" key="SettingsEditor/1280.0.1440.900/0.27.1280.826@1280.0.1440.900" timestamp="1607086082316" />
     <state x="1771" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607082043758">
       <screen x="1280" y="0" width="1440" height="900" />
     </state>
     <state x="1771" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1280.0.1440.900/0.27.1280.826@1280.0.1440.900" timestamp="1607082043758" />
+    <state x="1795" y="301" key="git4idea.rebase.GitRebaseDialog" timestamp="1607085153486">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state x="1795" y="301" key="git4idea.rebase.GitRebaseDialog/1280.0.1440.900/0.27.1280.826@1280.0.1440.900" timestamp="1607085153486" />
+    <state x="1804" y="351" width="381" height="176" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607084871797">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state x="1804" y="351" width="381" height="176" key="git4idea.remote.GitConfigureRemotesDialog/1280.0.1440.900/0.27.1280.826@1280.0.1440.900" timestamp="1607084871797" />
+    <state x="1771" y="335" key="git4idea.ui.GitResetDialog" timestamp="1607085135394">
+      <screen x="1280" y="0" width="1440" height="900" />
+    </state>
+    <state x="1771" y="335" key="git4idea.ui.GitResetDialog/1280.0.1440.900/0.27.1280.826@1280.0.1440.900" timestamp="1607085135394" />
   </component>
 </project>
